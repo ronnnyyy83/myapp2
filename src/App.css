@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-weight: bold;
+  width: 100%;
+}
+
+.code {
+  width: 50%;
+}
+
+.number {
+  width: 25%;
+}
